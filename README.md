@@ -28,4 +28,4 @@ I build statistical methods and the software that makes them usable at scale.
 
 ## Find me
 
-[LinkedIn](https://www.linkedin.com/in/yavuzsinan/) · [ORCID](https://orcid.org/0000-0003-3131-7820) · yavuzsinan@gmail.com
+[LinkedIn](https://www.linkedin.com/in/yavuzsinan/) · [ORCID](https://orcid.org/0000-0003-3131-7820) · [Google Scholar](https://scholar.google.com/citations?user=GAx-LwQAAAAJ&hl=en) ·yavuzsinan@gmail.com
