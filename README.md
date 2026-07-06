@@ -1,6 +1,6 @@
 # Hi, I'm Sinan 👋
 
-Senior Research Scientist (Survey Research) at **Amazon** · Ph.D. in Quantitative Methods, **UW–Madison** (2026) · Ph.D. in Educational Measurement & Evaluation, Hacettepe University
+Senior Research Scientist (Survey Research) at **Amazon** · Ph.D. in Quantitative Methods, **UW–Madison** · Ph.D. in Educational Measurement & Evaluation, Hacettepe University
 
 I build statistical methods and the software that makes them usable at scale.
 
