@@ -1,6 +1,6 @@
 # Hi, I'm Sinan 👋
 
-Senior Research Scientist (Survey Research) at **Amazon** · Ph.D. in Quantitative Methods, **UW–Madison** · Ph.D. in Educational Measurement & Evaluation, Hacettepe University
+Senior Research Scientist (Survey Research) at **Amazon** · Ph.D. in Quantitative Methods, **UW–Madison** (2026) · Ph.D. in Educational Measurement & Evaluation, Hacettepe University
 
 I build statistical methods and the software that makes them usable at scale.
 
@@ -8,7 +8,7 @@ I build statistical methods and the software that makes them usable at scale.
 
 - 📊 **Bayesian modeling & small area estimation** — my UW–Madison dissertation introduced the *Small Area Bayesian Dynamic Borrowing (SABDB)* model for subgroup estimation in large-scale assessments
 - 🧮 **Survey statistics** — non-response bias correction, weighting, multiple imputation, and synthetic data for large-scale surveys (NAEP, TIMSS, PIAAC, and employee listening at Amazon)
-- 🤖 **LLM pipelines & AI agents** — text extraction and embedding workflows on Amazon Bedrock, batch inference at scale
+- 🤖 **LLM pipelines & AI agents** — unified 6 employee-listening data sources (including free-text responses) into one analytical pipeline with LLM-based extraction and embeddings on Amazon Bedrock, scaling inference throughput 80x via batched, parallelized processing
 - 📦 **R development** — co-author of [EdSurvey](https://cran.r-project.org/package=EdSurvey) (CRAN), the standard package for analyzing NCES assessment data
 
 ## Selected work
@@ -28,4 +28,4 @@ I build statistical methods and the software that makes them usable at scale.
 
 ## Find me
 
-[LinkedIn](https://www.linkedin.com/in/yavuzsinan/) · [ORCID](https://orcid.org/0000-0003-3131-7820) · [Google Scholar](https://scholar.google.com/citations?user=GAx-LwQAAAAJ&hl=en) · yavuzsinan@gmail.com
+[LinkedIn](https://www.linkedin.com/in/yavuzsinan/) · [ORCID](https://orcid.org/0000-0003-3131-7820) · yavuzsinan@gmail.com
