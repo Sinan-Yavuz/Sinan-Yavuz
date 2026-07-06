@@ -15,6 +15,7 @@ I build statistical methods and the software that makes them usable at scale.
 
 | Repo / Package | What it is |
 |---|---|
+| [SABDB](https://github.com/Sinan-Yavuz/SABDB) | Small Area Bayesian Dynamic Borrowing — Stan/R code from my UW–Madison dissertation: simulation study, PISA 2018, and NAEP 2019 area-level applications |
 | [miBMA](https://github.com/Sinan-Yavuz/miBMA) | Multiple imputation under Bayesian Model Averaging — companion R package to [Kaplan & Yavuz (2020), *Multivariate Behavioral Research*](https://doi.org/10.1080/00273171.2019.1657790) |
 | [EdSurvey](https://cran.r-project.org/package=EdSurvey) | Co-author — analysis of NCES education survey and assessment data |
 | [BayesianLinearRegression](https://github.com/Sinan-Yavuz/BayesianLinearRegression) | Bayesian linear regression walkthroughs with PISA data |
