@@ -8,7 +8,7 @@ I build statistical methods and the software that makes them usable at scale.
 
 - 📊 **Bayesian modeling & small area estimation** — my UW–Madison dissertation introduced the *Small Area Bayesian Dynamic Borrowing (SABDB)* model for subgroup estimation in large-scale assessments
 - 🧮 **Survey statistics** — non-response bias correction, weighting, multiple imputation, and synthetic data for large-scale surveys (NAEP, TIMSS, PIAAC, and employee listening at Amazon)
-- 🤖 **LLM pipelines & AI agents** — unified 6 employee-listening data sources (including free-text responses) into one analytical pipeline with LLM-based extraction and embeddings on Amazon Bedrock, scaling inference throughput 80x via batched, parallelized processing
+- 🤖 **LLM pipelines & AI agents** — text extraction and embedding workflows on Amazon Bedrock, batch inference at scale
 - 📦 **R development** — co-author of [EdSurvey](https://cran.r-project.org/package=EdSurvey) (CRAN), the standard package for analyzing NCES assessment data
 
 ## Selected work
